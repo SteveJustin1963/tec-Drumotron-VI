@@ -1,7 +1,7 @@
 # tec-Drumotron-VI
 tec1 controlled drum synth
 
-![](https://github.com/SteveJustin1963/tec-Drumotron-VI/blob/main/pics/Drumotron_VI.webp)
+![](https://github.com/SteveJustin1963/tec-Drumotron-VI/blob/main/pics/Tambortron_VI.webp)
 
 
 
