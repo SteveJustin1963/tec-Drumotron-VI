@@ -24,5 +24,7 @@ A Drumotron-VI is a six-channel electronic drum machine that was manufactured by
 - https://www3.zoechip.com/watch-tv/regular-show-38515.2457625
 - www.roland.com
 - http://mickeydelp.com/blog/anatomy-of-a-drum-machine
+- https://www.eleccircuit.com/the-small-electronic-drum-by-mc14046/
+- http://mickeydelp.com/blog/anatomy-of-a-drum-machine
 - 
 
