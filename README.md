@@ -17,7 +17,9 @@ A Drumotron-VI is a six-channel electronic drum machine that was manufactured by
 
 ![](https://github.com/SteveJustin1963/tec-Drumotron-VI/blob/main/pics/Tambortron_VI.webp)
 
-
+### proj
+- use bridged-T and VCA cct on 2 x spkr ports
+- write code
 
 ## Ref
 - Regular Show S4E06
